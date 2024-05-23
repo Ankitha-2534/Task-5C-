@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EmployeeManagement
+/bin/Debug
+/obj/Debug
+/packages/Newtonsoft.Json.13.0.3
+/Properties
